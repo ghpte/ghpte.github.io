@@ -3,6 +3,7 @@ p {
 	padding-top: 35px;
 }
 .visible {
+	display: block;
 	margin: 0 auto;
 	padding: 0;
 	display: block;
